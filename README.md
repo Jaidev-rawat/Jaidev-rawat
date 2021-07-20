@@ -5,7 +5,7 @@
 I'm Jaidev! I'm a **Data Science Student**, looking forward to solve **real-world problems**:earth_asia:. 
 <br>
 
-<img align="right" width="400" height="280" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif"></img>
+<img align="right" width="400" height="280" src="https://giphy.com/embed/hjUYcGyhsGvI7not7w/video"></img>
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Jaidev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaidev-rawat-9886631b1/)
